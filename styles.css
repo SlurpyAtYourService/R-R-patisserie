@@ -279,8 +279,6 @@ body{
 }
 .container {
     background-color: white;
-    width: 80%;
-    height: 80vh; /* Use viewport height for responsiveness */
     overflow-y: auto; /* Enable vertical scrolling */
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
